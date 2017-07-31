@@ -417,10 +417,10 @@ hr {
     @media screen and (max-width: 520px) {
       .tile.tile-8192 .tile-inner {
         font-size: 15px; } }
-  .tile.tile-- .tile-inner {
+  .tile.tile-0 .tile-inner {
     color: #f9f6f2;
     background: #000000;
-    font-size: 50px; }
+    font-size: 38px; }
     @media screen and (max-width: 520px) {
       .tile.tile-16384 .tile-inner {
         font-size: 15px; } }
